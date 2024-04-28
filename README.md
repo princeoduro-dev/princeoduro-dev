@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Oduro</h1>
-<h3 align="center">An enthusiastic Ghanaian software developer</h3>
+<h3 align="center">A software developer who has a deep love for UI designs and front-end development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princeoduro-dev&label=Profile%20views&color=0e75b6&style=flat" alt="princeoduro-dev" /> </p>
 
